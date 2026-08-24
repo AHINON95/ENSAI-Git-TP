@@ -1,1 +1,2 @@
 pandas
+"https://ludo2ne.github.io/ENSAI-2A-remise-a-niveau/doc/first-steps/git.html#compte-github-et-jeton"
